@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "database-sempai": "2.6.0",
+    "telegramsjs": "^1.7.4"
+  },
+  "devDependencies": {
+    "@telegram.ts/types": "^1.3.2",
+    "@types/node": "^20.4.10"
+  }
+}
